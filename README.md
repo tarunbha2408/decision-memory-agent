@@ -139,7 +139,7 @@ setup_indexes.py   Creates the TTL index
 - MongoDB checks TTL expiry about once a minute, so deletion is not instant.
 - Future work: Change Streams for live updates across multiple agents or users, and recency-aware ranking.
 
-## Team Recall
+## hack_horizon
 
 Department of Computer Science and Engineering, SVNIT Surat. All three members worked together on every part of the project: design, backend, database, UI and demo.
 
